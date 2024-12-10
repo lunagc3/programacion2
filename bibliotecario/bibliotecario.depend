@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1733847782 source:c:\users\lunig\onedrive\documentos\bibliotecario\main.cpp
+	<iostream>
+	<Articulo.h>
+	<Libro.h>
+	<Pelicula.h>
+	<Biblioteca.h>
+	<Bibliotecario.h>
+	<CD.h>
+	<Controlador.h>
+	<Vista.h>
+
+1733847137 c:\users\lunig\onedrive\documentos\bibliotecario\include\articulo.h
+	<string>
+
+1733847141 source:c:\users\lunig\onedrive\documentos\bibliotecario\src\articulo.cpp
+	"Articulo.h"
+	<string>
+	<iostream>
+
+1733701997 source:c:\users\lunig\onedrive\documentos\bibliotecario\src\libro.cpp
+	"Libro.h"
+	<iostream>
+
+1733701997 c:\users\lunig\onedrive\documentos\bibliotecario\include\libro.h
+	<Articulo.h>
+
+1733701997 c:\users\lunig\onedrive\documentos\bibliotecario\include\pelicula.h
+	<Articulo.h>
+
+1733701997 source:c:\users\lunig\onedrive\documentos\bibliotecario\src\pelicula.cpp
+	"Pelicula.h"
+	<iostream>
+
+1733701997 source:c:\users\lunig\onedrive\documentos\bibliotecario\src\cd.cpp
+	"CD.h"
+	<iostream>
+
+1733701997 c:\users\lunig\onedrive\documentos\bibliotecario\include\cd.h
+	<Articulo.h>
+
+1733852371 source:c:\users\lunig\onedrive\documentos\bibliotecario\src\bibliotecario.cpp
+	"Bibliotecario.h"
+	<set>
+	<Libro.h>
+	<Pelicula.h>
+	<CD.h>
+	<iostream>
+
+1733710354 c:\users\lunig\onedrive\documentos\bibliotecario\include\bibliotecario.h
+	<set>
+	<Articulo.h>
+
+1733847782 source:c:\users\lunig\onedrive\documentos\bibliotecario\src\biblioteca.cpp
+	"Biblioteca.h"
+
+1733847782 c:\users\lunig\onedrive\documentos\bibliotecario\include\biblioteca.h
+	<Bibliotecario.h>
+
+1733846842 source:c:\users\lunig\onedrive\documentos\bibliotecario\src\vista.cpp
+	"Vista.h"
+	<iostream>
+	<set>
+	<string>
+	<limits>
+
+1733837921 c:\users\lunig\onedrive\documentos\bibliotecario\include\vista.h
+	<string>
+	<set>
+	<Articulo.h>
+
+1730569041 c:\users\lunig\onedrive\documentos\bibliotecario\\tau\tau.h
+	<tau/types.h>
+	<tau/misc.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<errno.h>
+	<libgen.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<signal.h>
+	<time.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<Windows.h>
+	<io.h>
+	<valgrind.h>
+	<exception>
+	<limits.h>
+	<time.h>
+	<sys/syscall.h>
+	<unistd.h>
+	<time.h>
+	<mach/mach_time.h>
+
+1730569041 c:\users\lunig\onedrive\documentos\bibliotecario\\tau\types.h
+	<tau/compilers.h>
+	<cstdint>
+	<stdint.h>
+
+1730569041 c:\users\lunig\onedrive\documentos\bibliotecario\\tau\compilers.h
+
+1730569041 c:\users\lunig\onedrive\documentos\bibliotecario\\tau\misc.h
+	<inttypes.h>
+
+1733847782 c:\users\lunig\onedrive\documentos\bibliotecario\include\controlador.h
+	<Biblioteca.h>
+	<Vista.h>
+
+1733852371 source:c:\users\lunig\onedrive\documentos\bibliotecario\src\controlador.cpp
+	"Controlador.h"
+	<Libro.h>
+	<Pelicula.h>
+	<CD.h>
+	<iostream>
+	<algorithm>
+
